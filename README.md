@@ -16,9 +16,17 @@
 <a href="https://www.youtube.com/c/https://youtube.com/@aintelligence5?si=ajs0il85cuqwc8yw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@aintelligence5?si=ajs0il85cuqwc8yw" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+<h3 align="left">Languages and Tools (Data Science):</h3>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" alt="seaborn" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/>
+</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shafikansari255&show_icons=true&locale=en&layout=compact" alt="shafikansari255" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shafikansari255&show_icons=true&locale=en" alt="shafikansari255" /></p>
